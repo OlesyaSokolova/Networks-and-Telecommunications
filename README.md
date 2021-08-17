@@ -1,1 +1,1 @@
-# Networks-and-Telecommunications
+# Networks and Telecommunications: laboratory works
